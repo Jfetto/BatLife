@@ -22,9 +22,11 @@ Future updates : Adding a LCD, adding LEDS to verify that the program is running
 
 Working monitor with updated time layout
 
+![image](https://github.com/user-attachments/assets/e7201135-686f-4c8d-8055-c7b88280d19e)
 
 
 Example circut
 
+![image](https://github.com/user-attachments/assets/7813dd54-fab9-4569-85e5-e25c3ab59389)
 
 
