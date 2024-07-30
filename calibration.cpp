@@ -1,5 +1,5 @@
 // Use this code to test for your thresholds 
-// C++
+
 
 #include <Arduino.h>
 
